@@ -1,1 +1,1 @@
-# blogging-application
+Blogging Application
